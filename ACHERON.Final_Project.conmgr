@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ACHERON.Final_Project"
+  DTS:DTSID="{499EAE89-462E-483C-A384-BB94E0584BF5}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=ACHERON;Initial Catalog=Final_Project;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Final_Project_HR_Data-{499EAE89-462E-483C-A384-BB94E0584BF5}ACHERON.Final_Project;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
